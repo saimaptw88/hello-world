@@ -75,6 +75,9 @@ a {
     <p>I am new in DevOps.</p>
     <hr>
 
+    <label for="psw"><b>Name</b></label>
+    <input type="name" placeholder="Enter Name" name="psw" id="name" required>
+
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
 
